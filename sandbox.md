@@ -56,3 +56,8 @@ det(dependency, A)
 <div class="sd-parse" tabs="yes">
 Dynamic visualization (click "edit!")
 </div>
+
+<div class="conllx-parse" id="chris1" tabs="yes">
+1 Sue Sue _ NNP _ 2 nsubj
+2 tried tried _ VBD _ 0 root
+</div>
